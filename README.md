@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/BIT-UP/BIT-UP/blob/386b82d1b96014696ba3ec5b4922d11f831f639f/bitup-workflows/one.svg" alt="ONE image">
 <!--
 **BIT-UP/BIT-UP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
