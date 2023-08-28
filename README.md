@@ -2,6 +2,8 @@
 
 <img src="https://github.com/BIT-UP/BIT-UP/blob/aeec504adabab5af8a3b81089a973bf35b553506/bitup-workflows/one.svg" alt="ONE image">
 
+Sou apaixonado por tecnologia, em especial Analise de Dados !
+
 ## 🔗 Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=f06b50)](https://github.com/BIT-UP)
@@ -11,8 +13,8 @@
 
 <div>
      <a href="https://github.com/BIT-UP">
-    <img height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=dark&count_private=true" />
-    <img height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&theme=dark"/>
+    <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=dark&count_private=true" />
+    <img height="180em" width="380em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&theme=dark"/>
 
     
 </div>
