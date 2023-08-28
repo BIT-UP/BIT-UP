@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/BIT-UP">
-  <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=tokyonighttransparent&count_private=true" />
-  <img align="right" height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&layout=compact&theme=transparent"/>
+  <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=dark&count_private=true" />
+  <img align="right" height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&layout=compact&theme=dark"/>
 </div>
 
 ## 🛠 Hard Skills:
