@@ -9,10 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=394240)](https://www.linkedin.com/in/rodrigo-luis-b17181104/)
 
 
-<div>
+<div  align="center" width="100%">
      <a href="https://github.com/BIT-UP">
-    <img height="180em" width="360em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=dark&count_private=true" />
-    <img height="180em" width="340em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&theme=dark"/>
+    <img height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=dark&count_private=true" />
+    <img height="180em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&theme=dark"/>
 
     
 </div>
