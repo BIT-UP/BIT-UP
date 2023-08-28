@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/BIT-UP/BIT-UP/blob/386b82d1b96014696ba3ec5b4922d11f831f639f/bitup-workflows/one.svg" alt="ONE image">
+<img src="https://github.com/BIT-UP/BIT-UP/blob/aeec504adabab5af8a3b81089a973bf35b553506/bitup-workflows/one.svg" alt="ONE image">
 <!--
 **BIT-UP/BIT-UP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
