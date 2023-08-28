@@ -9,11 +9,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=394240)](https://www.linkedin.com/in/rodrigo-luis-b17181104/)
 
 
+<div>
+  <a href="https://github.com/BIT-UP">
+  <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BIT-UP&show_icons=true&theme=tokyonighttransparent&count_private=true" />
+  <img align="right" height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BIT-UP&layout=compact&theme=transparent"/>
+</div>
+
 ## 🛠 Hard Skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
 
 
 
